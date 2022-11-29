@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas7</string>
+    <string name="deskripsi_villa">deskripsi_villa</string>
+    <string name="details">details</string>
+    <string name="price">price</string>
+    <string name="harga_villa">harga_villa</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>

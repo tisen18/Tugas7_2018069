@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_alarm" type="id">nav_alarm</item>
+    <item name="nav_message" type="id">nav_message</item>
+    <item name="nav_profile" type="id">nav_profile</item>
+    <item name="myText1" type="id">myText1</item>
+    <item name="myText2" type="id">myText2</item>
+    <item name="star" type="id">star</item>
+    <item name="myImages" type="id">myImages</item>
+    <item name="mainLayout" type="id">mainLayout</item>
+</resources>
